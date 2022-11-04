@@ -1,0 +1,36 @@
+{
+  "editor.fontSize": 17,
+  "editor.lineHeight": 25,
+  "editor.letterSpacing": 0.5,
+  "files.trimTrailingWhitespace": true,
+  "editor.fontWeight": "400",
+  "prettier.eslintIntegration": true,
+  "editor.cursorStyle": "underline",
+  "editor.cursorWidth": 5,
+  "editor.fontLigatures": true,
+  "editor.cursorBlinking": "smooth",
+  "editor.fontFamily": "jetbrains mono",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.minimap.enabled": false,
+  "workbench.colorTheme": "Sublime Monokai Adaptive",
+  "zenMode.centerLayout": false,
+  "zenMode.hideLineNumbers": false,
+  "zenMode.hideStatusBar": false,
+  "zenMode.hideTabs": false,
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#191816",
+    "editor.background": "#191816",
+    "editor.lineHighlightBackground": "#7c7c7c09",
+    "selection.background": "#ffffff33",
+    "editorGutter.background": "#191816"
+  },
+
+  "editor.tokenColorCustomizations": {
+    "comments": "#999797"
+  },
+
+  "workbench.preferredHighContrastLightColorTheme": "Visual Studio Dark"
+}
